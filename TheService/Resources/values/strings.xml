@@ -1,0 +1,8 @@
+﻿<resources>
+    <string name="app_name">The Service</string>
+    <string name="app_text">Hello, Android!</string>
+    <string name="permission_label">Request The Service Access</string>
+	<string name="permission_description">Sample permission for The Service</string>
+</resources>
+
+
